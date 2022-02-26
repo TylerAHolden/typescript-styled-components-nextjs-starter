@@ -1,6 +1,7 @@
 {
   "name": "typescript-styled-components-nextjs-starter",
   "version": "0.0.1",
+  "license": "GNU GPLv3",
   "author": "Tyler Holden <tyleraholden@gmail.com>",
   "private": true,
   "scripts": {
